@@ -19,3 +19,5 @@ tadaa!
 lost in R
 
 mas  tamos comunicando
+
+**As vezes functiona!**
